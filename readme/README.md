@@ -16,4 +16,6 @@ Clique em Importar e selecione o arquivo cadastroteste.sql que está na raiz do 
 
 Acesse o sistema pelo navegador em localhost/nome-da-pasta-do-projeto.
 
+No caso a tela cliente é index.html e a tela de login para gerenciamento de adm/estoquista é login.php
+
 Para acessar o painel administrativo logar com o e-mail "admin@gmail.com" e com a senha "123456"

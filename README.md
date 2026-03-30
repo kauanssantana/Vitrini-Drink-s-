@@ -1,4 +1,5 @@
 Vitrini Drink's - Sistema de Gestão e E-commerce
+
 ![Capa do Projeto](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

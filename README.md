@@ -26,3 +26,10 @@ Acesse o sistema pelo navegador em localhost/nome-da-pasta-do-projeto.
 No caso a tela cliente é index.html e a tela de login para gerenciamento de adm/estoquista é login.php
 
 Para acessar o painel administrativo logar com o e-mail "admin@gmail.com" e com a senha "123456"
+
+---
+
+🛡️ Licença & Copyright
+Copyright (c) 2026 Kauan Santana Almeida. Todos os direitos reservados.
+
+A cópia, distribuição, modificação ou uso comercial deste código, seja parcial ou integral, é estritamente proibida sem a autorização prévia e expressa do autor. O uso não autorizado deste software está sujeito às penalidades previstas na lei de direitos autorais.
